@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- Name: Huisu Lee
-- I am currently a student at Ajou University.
+- Name: Huisoo Lee
+- I am currently a student at Korea University.
 <!--
 **huisu0818/huisu0818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
