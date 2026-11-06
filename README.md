@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- Name: Huisoo Lee
-- Email: huisu0818@ajou.ac.kr
+- Name: Huisu Lee
 - I am currently a student at Ajou University.
 <!--
 **huisu0818/huisu0818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
